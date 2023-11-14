@@ -17,3 +17,9 @@ https://aifortunedoctor.com/
 
 ## 운세박사 링크
 https://aifortunedoctor.com/
+
+## AI운세 운세박사 보는 방법
+![KakaoTalk_20231108_174809657](https://github.com/JAEHOON-1993/aifortunedoctor.com/assets/40525201/4a340286-322d-408f-963b-6710ab16c95a)
+
+운세박사는 자신의 생년월일시를 입력하여 볼 수 있다. 아래 링크에서 사주팔자를 입력하여 운세를 봐보도록 하자.
+https://aifortunedoctor.com/saju
