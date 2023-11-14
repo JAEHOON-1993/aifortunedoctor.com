@@ -6,3 +6,5 @@
 ## 운세박사 링크
 https://aifortunedoctor.com/
 
+## 운세박사 AI 운세
+![saju_1](https://github.com/JAEHOON-1993/aifortunedoctor.com/assets/40525201/fa464b21-2718-40fc-bc05-531570c8b8e8)
